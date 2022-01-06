@@ -1,0 +1,92 @@
+.array-container {
+    position: absolute;
+    left: 300px;
+    top: 40px;
+}
+
+.array-bar {
+    width: 4px;
+    background-color: goldenrod;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.stop-button {
+    padding: 16px;
+    border-radius: 12px;
+    position: absolute;
+    left: 40px;
+    top: 790px;
+    font-size: 35px
+}
+
+.generate-button {
+    padding: 16px;
+    border-radius: 12px;
+    position: absolute;
+    left: 270px;
+    top: 790px;
+    font-size: 35px
+}
+
+.sorting-speed {
+    padding: 0;
+    border: none;
+    position: absolute;
+    left: 670px;
+    top: 808px;
+    font-size: 35px
+}
+
+input[type=range]{
+    position: absolute;
+    border-color: black;
+    width:400px;
+    left: 1060px; 
+    top: 821px;
+}
+
+.merge-sort {
+    padding: 16px;
+    border-radius: 12px;
+    position: absolute;
+    left: -260px;
+    top: 110px;
+    font-size: 35px;
+}
+
+.quick-sort {
+    padding: 16px;
+    border-radius: 12px;
+    position: absolute;
+    left: -255px;
+    top: 235px;
+    font-size: 35px;
+}
+
+.bubble-sort {
+    padding: 16px;
+    border-radius: 12px;
+    position: absolute;
+    left: -265px;
+    top: 360px;
+    font-size: 35px;
+}
+
+.selection-sort {
+    padding: 16px;
+    border-radius: 12px;
+    position: absolute;
+    left: -280px;
+    top: 485px;
+    font-size: 35px;
+}
+
+.insertion-sort {
+    padding: 16px;
+    border-radius: 12px;
+    position: absolute;
+    left: -275px;
+    top: 610px;
+    font-size: 35px;
+}
